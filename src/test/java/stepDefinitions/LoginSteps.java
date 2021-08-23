@@ -96,8 +96,9 @@ public class LoginSteps {
 
 	@When("I view my wishlist table")
 	public void i_view_my_wishlist_table() throws InterruptedException {
+		login.clickWishList();
 
-        BaseUtil.getHomePage().goToWishList();
+       
     }
 
 	@Then("I find total four selected items in my Wishlist")
