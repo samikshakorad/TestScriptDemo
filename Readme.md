@@ -1,7 +1,7 @@
 # TestScriptDemo
 This is a maven project using selenium and cucumber to verify the functionalities of adding to wishlist and adding to cart.
 
-Github link: https://github.com/SamikshaKorad/TestScriptDemo.git	
+Github link: https://github.com/samikshakorad/TestScriptDemo.git	
 
 
 To run the project :
